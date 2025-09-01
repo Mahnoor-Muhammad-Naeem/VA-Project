@@ -1,4 +1,4 @@
-# Shifra — Browser‑Based Virtual Assistant
+# Shifra - Browser‑Based Virtual Assistant
 
 A voice‑activated assistant for the web using the **Web Speech API** to recognize your commands and speak responses. Click the mic button, talk naturally, and let Shifra open sites, tell the time/date, or search the web.
 
